@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I'm a professional passionate about logic and numbers, holding a degree in Mathematics and currently immersing myself in the realm of data analysis. I'm seeking opportunities to apply my theoretical knowledge practically, aiming to extract valuable insights through data interpretation and visualization.
+I'm a professional passionate about logic and numbers, with a degree in Mathematics and currently immersed in the world of data analysis. I'm dedicated to improving my analysis techniques to provide increasingly efficient insights and aiming to extract valuable insights through data interpretation and visualization.
 
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [vanessa.mat.sedu@gmail.com](mailto:vanessa.mat.sedu@gmail.com)
