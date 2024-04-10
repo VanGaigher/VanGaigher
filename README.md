@@ -8,7 +8,7 @@ I'm a professional passionate about logic and numbers, with a degree in Mathemat
 
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [vanessa.mat.sedu@gmail.com](mailto:vanessa.mat.sedu@gmail.com)
-* 🧠  I'm learning Statistical Techniques for Analysis
+* 🧠  I'm improving my ETL skills.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Send me "Hi" and Let's work together!
 
