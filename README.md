@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vanessa Gaigher
 =======================================================================================================================================
 
-Data Analyst
+Data Scientist/ Data Analyst
 ------------
 
-I'm a professional passionate about logic and numbers, with a degree in Mathematics and currently immersed in the world of data analysis. I'm dedicated to improving my analysis techniques to provide increasingly efficient insights and aiming to extract valuable insights through data interpretation and visualization.
+I'm a professional passionate about logic and numbers, with a degree in Mathematics and currently immersed in the world of data science and analysis. I'm dedicated to improving my analysis techniques to provide increasingly efficient insights and aiming to extract valuable insights through data interpretation and visualization.
 
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [vanessa.mat.sedu@gmail.com](mailto:vanessa.mat.sedu@gmail.com)
