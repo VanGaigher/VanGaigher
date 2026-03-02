@@ -4,11 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist/ Data Engineering
 ------------
 
-I'm a professional passionate about logic and numbers, with a degree in Mathematics and currently immersed in the world of data science and data engineer. I'm dedicated to improving my analysis techniques to provide increasingly efficient insights and aiming to extract valuable insights through data interpretation and visualization.
+Mathematician with a strong foundation in statistics, modeling, and analytical reasoning.
+
+Data Science and Data Engineering professional experienced in:
+- Feature engineering and data preprocessing pipelines
+- Machine learning model development and hyperparameter tuning
+- Analytical problem structuring
+- SQL-based data exploration and transformation
+- Building reproducible and production-oriented workflows
+
+Passionate about extracting meaningful insights from complex datasets and continuously improving model performance and analytical robustness.
 
 * 🌍  I'm based in Braga
 * ✉️  You can contact me at [vanessa.mat.sedu@gmail.com](mailto:vanessa.mat.sedu@gmail.com)
-* 🧠  I'm improving my ETL skills.
+* 🧠  I'm improving my MLOPs skills.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Send me "Hi" and Let's work together!
 
